@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zyndico Virtual University</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container">
+      <div class="logo">ZV University</div>
+      <nav class="nav">
+        <a href="#courses">Courses</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+        <a href="#" class="btn">Apply Now</a>
+        <a href="#" class="btn alt">Login</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <h1>Empowering Pakistan's Freelancers</h1>
+      <p>Industry‑standard digital skills, expert mentorship, fully government‑supported.</p>
+      <a href="#" class="btn">Enroll Now</a>
+    </div>
+  </section>
+
+  <!-- Programs Section -->
+  <section id="courses" class="programs container">
+    <h2>Available Courses</h2>
+    <div class="cards">
+      <div class="card">
+        <h3>Ethical Hacking & Pentesting</h3>
+        <p>Duration: 3 Months</p>
+        <a href="#" class="btn small">Enroll Now</a>
+      </div>
+      <div class="card">
+        <h3>Frontend Web Development</h3>
+        <p>Duration: 3 Months</p>
+        <a href="#" class="btn small">Enroll Now</a>
+      </div>
+      <div class="card">
+        <h3>MERN Stack</h3>
+        <p>Duration: 3 Months</p>
+        <a href="#" class="btn small">Enroll Now</a>
+      </div>
+      <!-- Add more cards as desired -->
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="about container">
+    <h2>About KFP</h2>
+    <p>
+      Under the leadership of CM Maryam Nawaz and Speaker Malik Muhammad Ahmad Khan,
+      the Kamyaab Freelancer Program equips youth with modern skills to pursue
+      freelance global opportunities.
+    </p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="contact">
+        <h3>Contact Us</h3>
+        <p>Email: support@kfpprogram.pk</p>
+        <p>UAN: 0304‑1110869 | WhatsApp: 0348‑4350668</p>
+      </div>
+      <p>© 2025 Kamyaab Freelancer Program. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html
